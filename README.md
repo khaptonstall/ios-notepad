@@ -3,7 +3,7 @@ A simple notepad app that combines Core Data and UICollectionView to allow you t
 
 
 ## Screen Shots
-<img src="https://raw.github.com/khaptonstall/ios-notepad/master/Screens/Home.png" width="180" />
+<img src="https://raw.github.com/khaptonstall/ios-notepad/master/Screens/Home.png" width="180" border="5" />
 
 
 <img src="https://raw.github.com/khaptonstall/ios-notepad/master/Screens/Note.png" width="180" />
